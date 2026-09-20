@@ -1,0 +1,41 @@
+https://cloud.google.com/learn/certification/cloud-engineer
+
+-------- Day 1 ---------------------------
+
+https://docs.cloud.google.com/docs/overview
+https://www.skills.google/course_templates/60
+https://docs.cloud.google.com/vpc/docs
+https://docs.cloud.google.com/firewall/docs/firewalls
+https://www.skills.google/focuses/19093?parent=catalog   <--lab
+https://docs.cloud.google.com/compute/docs
+https://docs.cloud.google.com/compute/docs/instances/create-start-instance
+https://docs.cloud.google.com/compute/docs/machine-resource
+https://docs.cloud.google.com/compute/docs/connect/standard-ssh
+
+------------ Day 2 --------------------------
+https://docs.cloud.google.com/nat/docs/overview
+https://docs.cloud.google.com/storage/docs
+https://docs.cloud.google.com/sql/docs
+https://docs.cloud.google.com/spanner/docs
+https://docs.cloud.google.com/bigtable/docs
+https://docs.cloud.google.com/storage/docs/gsutil
+https://docs.cloud.google.com/sdk/gcloud/reference/storage
+
+https://www.skills.google/focuses/4362?parent=catalog
+https://www.skills.google/focuses/1760?parent=catalog
+https://www.skills.google/focuses/936?parent=catalog
+https://www.skills.google/focuses/1774?parent=catalog
+https://www.skills.google/course_templates/650
+https://www.skills.google/focuses/7530?parent=catalog
+
+------------ Day 3 ---------------------------
+https://www.skills.google/focuses/3719?parent=catalog
+https://www.skills.google/course_templates/648
+https://www.skills.google/focuses/2754?parent=catalog
+
+https://docs.cloud.google.com/pubsub/docs
+https://docs.cloud.google.com/load-balancing/docs/load-balancing-overview
+https://docs.cloud.google.com/appengine/docs
+
+
+
