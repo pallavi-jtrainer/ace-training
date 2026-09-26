@@ -37,5 +37,17 @@ https://docs.cloud.google.com/pubsub/docs
 https://docs.cloud.google.com/load-balancing/docs/load-balancing-overview
 https://docs.cloud.google.com/appengine/docs
 
+------------ Day 4 -----------------------------------
+https://www.skills.google/focuses/44159?parent=catalog
+https://www.skills.google/focuses/15842?parent=catalog
+https://www.skills.google/focuses/565?parent=catalog
+
+https://source.cloud.google.com/
+https://docs.cloud.google.com/iam/docs
+https://docs.cloud.google.com/docs/terraform/iac-overview
+https://docs.cloud.google.com/marketplace/docs
+
+--------------- Day 5 ------------------------------------
+
 
 
