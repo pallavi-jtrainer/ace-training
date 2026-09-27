@@ -48,6 +48,23 @@ https://docs.cloud.google.com/docs/terraform/iac-overview
 https://docs.cloud.google.com/marketplace/docs
 
 --------------- Day 5 ------------------------------------
+https://www.skills.google/focuses/878?parent=catalog
+https://www.skills.google/focuses/639?parent=catalog
+https://www.skills.google/focuses/10599?parent=catalog
+
+https://docs.cloud.google.com/kubernetes-engine/docs/concepts/kubernetes-engine-overview
+https://docs.cloud.google.com/kubernetes-engine/docs
+https://docs.cloud.google.com/monitoring/docs
+------------------------------------------------------
+
+Certification links:
+https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x
+
+https://www.youtube.com/watch?v=30NX6wNVuzs&list=PLXgVtmIQkys3tF8v3QJ-bQGWzk10c8roJ&pp=0gcJCf8COCosWNin
+
+https://www.youtube.com/watch?v=5F08rDyWRXA&list=PL_HS7IsXErLYst898lfpO5w3OOmMkaBgX&pp=0gcJCbwFa94AFGB0
+
+https://www.youtube.com/watch?v=2dh3URv2mSQ&pp=ygUfZ2NwIGFjZSBjZXJ0aWZpY2F0aW9uIHF1ZXN0aW9ucw%3D%3D
 
 
 
